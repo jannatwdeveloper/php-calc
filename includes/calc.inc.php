@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 include 'class-autoload.inc.php';
-include 'db.php';
+
 
 ?>
 
